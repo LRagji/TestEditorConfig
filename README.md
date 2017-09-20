@@ -1,0 +1,2 @@
+# TestEditorConfig
+Testing Editor Config
